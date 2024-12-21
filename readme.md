@@ -8,6 +8,8 @@ Virtual University is a blockchain-powered platform that creates a fair and enga
 
 ## Contract Address
 0x975956Cb846795fa67934521D879580279c547A2
+![image](https://github.com/user-attachments/assets/e5d48527-9475-4d0f-9d8b-c13c9608922b)
+
 
 ## Project Vision
 The goal of Virtual University is to reshape traditional education by using modern technology to make learning more accessible and rewarding. Through gamification and blockchain, the platform aims to create a space where students can engage with their studies while earning incentives for their achievements. This approach is designed to make learning fun, fair, and open to everyone.
